@@ -1,6 +1,6 @@
 - 👋 Hi, I’m antony nicolas huaman alikhan
 - 👀 I’m interested in learning android solutions and solve all the problems that we can meet in a app
-- 🌱 I’m currently learning unity and android development.
+- 🌱 I’m currently working on projects for banks with AndroidX and Kotlin.
 - 💞️ I’m looking to collaborate on companies where they need my skills
 - 📫 How to reach me :
   Phone Number:
