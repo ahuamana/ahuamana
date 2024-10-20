@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Antony Huaman</h1>
-<h3 align="center">A passionate mobile developer from Peru</h3>
+<h3 align="center">A interesting mobile developer who loves books</h3>
 
 ###
 
@@ -8,21 +8,14 @@
 
 ###
 
-<p align="left">I'm Antony Nicolas Huaman Alikhan from Peru<br><br>- 🔭 I’m working as Android Engineer<br>- 📚 I'm currently learning abook about Clean Arquitecture<br>- ⚡ In my free time I usually read books from Android, The last book in read was Clean Arquitecture for Android written by Eran Boudjnah</p>
-
-###
-
-
-
-- 👋 Hi, I’m Antony Nicolas Huaman alikhan
+👋 Hi, I’m Antony Nicolas Huaman alikhan
 - 👀 I’m interested in learning android solutions and solve all the problems that we can meet in a app
 - 🌱 I’m currently working on projects for banks with AndroidX and Kotlin.
 - 💞️ I’m looking to collaborate on companies where they need my skills
-- 📫 How to reach me :
-  Phone Number:
-  +51930292619
-  Email:
-  antonyalikhan@gmail.com
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahuamana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
