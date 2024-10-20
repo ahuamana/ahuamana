@@ -1,3 +1,13 @@
+
+<h1 align="center">Hi 👋, I'm Antony Nicolas Huaman alikhan</h1>
+<h3 align="center">A passionate mobile developer from Peru</h3>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 - 👋 Hi, I’m Antony Nicolas Huaman alikhan
 - 👀 I’m interested in learning android solutions and solve all the problems that we can meet in a app
 - 🌱 I’m currently working on projects for banks with AndroidX and Kotlin.
@@ -139,8 +149,6 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Antony Huaman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahuamana&label=Profile%20views&color=0e75b6&style=flat" alt="ahuamana" /> </p>
 
