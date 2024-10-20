@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Antony Huaman</h1>
-<h3 align="center">💻 Android Developer | 🌟 Tech Enthusiast | 🏆 Nasa Space Apps Challenge Local Winner</h3>
+<h3 align="center">💻 Android Developer | 🌟 Tech Enthusiast | 🏆 Nasa Space Apps Challenge Local Winner 2024</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahuamana&label=Profile%20views&color=0e75b6&style=flat" alt="ahuamana" /> </p>
 
 ###
 
