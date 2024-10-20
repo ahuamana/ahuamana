@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a Mobile developer with more than 4 years of experience using Kotlin and Swift: I was mainly developing in the Education sector. Currently, I work in the Banking industry creating mobile solutions consumed by over 100 million users. I have also collaborated with software factories on projects using advanced technologies such as Flow, Hilt, Dagger, Room, Postman, Git, Git Hub, Swagger, Jetpack Navigation, Expresso, Junit Mockito, clean code, GraphQL among others. As a seasoned professional with extensive experience leading and working within cross-functional teams, I bring a unique skill set to mobile application development. I have a deep understanding of continuous delivery practices, including both CI and CD, and am passionate about contributing to the design of scalable solutions for a global audience. I am eager to take on new challenges in this field and am confident in my ability to deliver impactful results.</p>
+<p align="left">I'm Antony Nicolas Huaman Alikhan from Peru<br><br>- 🔭 I’m working as Android Engineer<br>- 📚 I'm currently learning abook about Clean Arquitecture<br>- ⚡ In my free time I usually read books from Android, The last book in read was Clean Arquitecture for Android written by Eran Boudjnah</p>
 
 ###
 
