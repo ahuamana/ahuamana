@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Antony Huaman</h1>
-<h3 align="center">💻 Software Developer | 🌟 Tech Enthusiast | 🏆 Nasa Space Apps Challenge Local Winner</h3>
+<h3 align="center">💻 Android Developer | 🌟 Tech Enthusiast | 🏆 Nasa Space Apps Challenge Local Winner</h3>
 
 ###
 
