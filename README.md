@@ -5,9 +5,10 @@
 
 ###
 
-<h3 align="center">💻 Software Developer | 🌟 Tech Enthusiast | 🌟 Nasa Space Apps Challenge Local Winner</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/NASA-Space%20Apps%20Winner-blue?style=for-the-badge&logo=nasa" alt="NASA Space Apps Winner"/>
+   <a href="https://www.linkedin.com/in/antony-huaman/">
+     <img src="https://img.shields.io/badge/NASA-Space%20Apps%20Winner-blue?style=for-the-badge&logo=nasa" alt="NASA Space Apps Winner"/>
+   </a>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/antony-huaman/">
