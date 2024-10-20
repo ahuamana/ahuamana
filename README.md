@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/antony-huaman/">
+   <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/duoscience/?tab=project">
      <img src="https://img.shields.io/badge/NASA-Space%20Apps%20Winner-blue?style=for-the-badge&logo=nasa" alt="NASA Space Apps Winner"/>
    </a>
 </div>
@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/antony-huaman/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"/>
   </a>
-  <a href="https://www.youtube.com/@YOUR_YOUTUBE">
+  <a href="https://www.youtube.com/@PaparazziTeamYT">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter"/>
+  <a href="https://x.com/PaparazziTeamYT">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X (formerly Twitter)"/>
   </a>
   <a href="https://github.com/ahuamana">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github"/>
