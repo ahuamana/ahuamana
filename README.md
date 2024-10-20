@@ -5,10 +5,23 @@
 
 ###
 
+<h3 align="center">💻 Software Developer | 🌟 Tech Enthusiast | 🌟 Nasa Space Apps Challenge Local Winner</h3>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.linkedin.com/in/antony-huaman/"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/NASA-Space%20Apps%20Winner-blue?style=for-the-badge&logo=nasa" alt="NASA Space Apps Winner"/>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/antony-huaman/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin"/>
+  </a>
+  <a href="https://www.youtube.com/@YOUR_YOUTUBE">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter"/>
+  </a>
+  <a href="https://github.com/ahuamana">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github"/>
+  </a>
 </div>
 
 ###
