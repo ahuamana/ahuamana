@@ -139,6 +139,11 @@
 
 ###
 
+<h1 align="center">Hi 👋, I'm Antony Huaman</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahuamana&label=Profile%20views&color=0e75b6&style=flat" alt="ahuamana" /> </p>
+
   
 <!---
 ahuamana/ahuamana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
