@@ -7,7 +7,7 @@
 
 <div align="center">
    <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/duoscience/?tab=project">
-     <img src="https://img.shields.io/badge/NASA-Space%20Apps%20Winner-blue?style=for-the-badge&logo=nasa" alt="NASA Space Apps Winner"/>
+     <img src="https://img.shields.io/badge/NASA-Space%20Apps%20Winner-blue?style=for-the-badge&logo=nasa" alt="NASA Space Apps Local Winner"/>
    </a>
 </div>
 <div align="center">
