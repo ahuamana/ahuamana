@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Antony Huaman</h1>
-<h3 align="center">💻 Android Developer | 🌟 Tech Enthusiast | 🏆 Nasa Space Apps Challenge Local Winner 2024</h3>
+<h3 align="center">💻 Mobile Developer | 🌟 Tech Enthusiast | 🏆 Nasa Space Apps Challenge Local Winner 2024</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahuamana&label=Profile%20views&color=0e75b6&style=flat" alt="ahuamana" /> </p>
 
 ###
@@ -31,7 +31,7 @@
 
 ###
 
-👋 Hi, I’m an Android Enginneer
+👋 Hi, I’m an Mobile Enginneer
 - 👀 I’m interested in understanding the highest tecnology for Android
 - 🌱 I’m currently working on projects for Android using Virtual Reality and.
 - 💞️ I’m looking to collaborate on companies where they need my skills
